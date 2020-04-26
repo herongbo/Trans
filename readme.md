@@ -1,6 +1,6 @@
-## 知识表示模型实现
+## 知识表示模型
 
-- TransEmbedding嵌入Tensorflow实现
+- Trans模型Tensorflow实现
 - - 数据集：FB15k
 - - TransE
 - - TransR
